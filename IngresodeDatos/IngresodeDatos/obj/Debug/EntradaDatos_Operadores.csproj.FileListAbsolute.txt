@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\bin\Debug\EntradaDatos_Operadores.exe.config
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\bin\Debug\EntradaDatos_Operadores.exe
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\bin\Debug\EntradaDatos_Operadores.pdb
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\obj\Debug\EntradaDatos_Operadores.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\obj\Debug\EntradaDatos_Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\obj\Debug\EntradaDatos_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\obj\Debug\EntradaDatos_Operadores.exe
+C:\Users\User\Desktop\Archivos U\Curso Programcion\EntradaDatos_Operadores\EntradaDatos_Operadores\obj\Debug\EntradaDatos_Operadores.pdb
